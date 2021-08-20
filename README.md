@@ -41,4 +41,4 @@ CLOUDINARY_SECRET=...
 ```
 
 If you want to upload your assets on your computer when running locally on your machine, please comment the content of your `config/plugins.js` file. 
-You can also create a `config/env/production/plugins.js` file containing the cloudinary provider and delete your `config/plugins.js`. This way you'll have two different upload providers depending on the environment.
+You can also create a `config/env/production/plugins.js` file containing the cloudinary provider and delete your `config/plugins.js`. This way you'll have two different upload providers depending on the environment.# oclm-app
